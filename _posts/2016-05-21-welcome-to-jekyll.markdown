@@ -18,4 +18,4 @@ print_hi('Robot')
 
 Check out the [sample resume][sample-resume] that I've just set up.
 
-[sample-resume]: cv/resume.html
+[sample-resume]: https://iammyr.github.io/cv/resume.html

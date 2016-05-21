@@ -8,7 +8,6 @@ permalink: /about/
 
 We are in this world to improve it for everyone's enjoyment. Security knowledge is the most powerful tool one could use to protect common citizens rather than harming them.
  
-You can find my repositories at {% include icon-github.html username="iammyr" %} /
-[my-repos](https://github.com/iammyr)
+You can find my repositories at {% include icon-github.html username="iammyr" %}(https://github.com/iammyr)
 
 Have also a look at [my resume](https://iammyr.github.com/cv/resume.html)

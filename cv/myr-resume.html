@@ -4,19 +4,17 @@
     <head>
         <meta charset="utf-8">
         <title>Jane Q. Fullstacker</title>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
-        rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <style>
             html, body, main, section, header, ul, p, h1, h2, h3 {
-              font-family: 'Calibri', 'Open Sans', 'sans-serif';
-              font-size: 14px;
+              font-family: 'Calibri', 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'sans-serif';
+              font-size: 12px;
               margin: 0; padding: 0;
               display: block;
             }
             
             a {
-              color: #C00000;
+              color: #0064BD;
               text-decoration: none;
             }
             
@@ -28,76 +26,27 @@
               text-decoration: underline;
             }
             
-            h1 {
-              text-transform: uppercase;
-              font-size:
-            }
-            
             h2 {
               text-transform: uppercase;
-              color: #898989;
-              font-size: 2em;
-              position: relative;
-              font-weight: 400;
-            }
-            
-            h3, .tenure {
-              font-size: 1.5em;
-              font-weight: 300;
             }
             
             h3 {
-              margin-top: 0;
-              width: 66%;
-              float: left;
-            }
-            
-            table {
-              width: 100%;
-              text-transform: uppercase;
-              font-size: 1.3em;
-            }
-            
-            td:first-child {
-              text-align: right;
-              color: #A9A9A9;
-              letter-spacing: 5px;
-              font-weight: bold;
-            }
-            
-            td:last-child {
-              text-align: justify; /* HTML justification sucks, but in this case... */
+              font-size: 1em;
             }
             
             hr {
-              display: none;
+              border: none;
+              border-top: 1px solid #B3B3B3;
             }
             
             main {
               padding: 15px;
-              max-width: 800px;
+              max-width: 700px;
               margin: 0 auto;
             }
             
             section {
               margin-top: 1em;
-            }
-            
-            section > div {
-              margin-top: 1em;
-              overflow: hidden; /* Clear floated children */
-            }
-            
-            section > div p {
-              clear: both;
-            }
-            
-            section > header {
-              position: relative;
-            }
-            
-            ul {
-              clear: both;
             }
             
             li {
@@ -106,20 +55,11 @@
             
             p, li {
               text-align: justify;
+              clear: both;
             }
             
             .tenure {
               float: right;
-              color: #6F6F6F;
-              background-color: #F5F5F5;
-              border-radius: 6px;
-              padding: 4px 6px;
-              font-size: 85%;
-            }
-            
-            span.keywords {
-              font-size: 10px;
-              color: #B16666;
             }
             
             thead {
@@ -129,45 +69,42 @@
             main > header {
               width: 100%;
               float: left;
-              margin-bottom: 1em;
+              margin-bottom: 0;
+              position: relative;
             }
             
-            h1 {
+            
+            h3 {
+              display: inline-block;
+              line-height: 1;
+            }
+            #contact {
+              float: right;
+              position: absolute;
+              right: 0;
+              bottom: 0;
+            }
+            
+            #contact > div {
+              display: inline-block;
+              margin-left: 5px;
+            }
+            
+            span.fa {
+              text-align: left;
+              margin-right: 3px;
               float: left;
             }
             
-            h1, h2, .label {
-              font-size: 2.5em;
-              text-transform: uppercase;
-              font-weight: 300;
-              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+            section > div {
+              margin-bottom: 1em;
+              clear: both;
             }
             
-            #contact {
-             clear: both;
-             float: right;
-            }
-            
-            header > span.fa {
-              text-align: center;
-              margin-right: 3px;
-              position: absolute;
-              width: 40px;
-              top: 10px;
-              font-size: 30px;
-              /*transform: translateX(-110%); PDF no likey */
-              margin-left: -50px;
-              color: #DADADA;
-            }
-            
-            .label {
-              float: right;
-              color: #DADADA;
-            }
-            
-            #summary {
-              color: #717171;
-              font-size: 1.25em;
+            span.keywords {
+              font-size: 10px;
+              color: gray;
+              text-align: right;
             }
         </style>
     </head>
@@ -175,16 +112,17 @@
     <body>
         <main>
             <header>
-                 <h1>Jane Q. <span style="color: #C00000;">Fullstacker</span></h1>
- <span class="label">Senior Developer</span>
+                 <h1>Jane Q. Fullstacker</h1>
 
-                <p id="contact"> <span class="email"><a href="mailto:jdoe@onecoolstartup.io">jdoe@onecoolstartup.io</a></span>
-
-                    <span
-                    class="phone">1-650-999-7777</span> <span class="website"><a href="http://janef.me/blog"><a href="http://janef.me/blog">http://janef.me/blog</a></a></span>
-
-                </p>
+                <div id="contact">
+                    <div class="email"><a href="mailto:jdoe@onecoolstartup.io">jdoe@onecoolstartup.io</a>
+                    </div>
+                    <div class="phone">1-650-999-7777</div>
+                    <div class="website"><a href="http://janef.me/blog">janef.me/blog</a>
+                    </div>
+                </div>
             </header>
+            <hr>
             <section id="summary"> <strong>Imaginary full-stack software developer with 6+ years industry experience</strong> specializing
                 in cloud-driven web applications and middleware. A native of southern CA,
                 Jane enjoys hiking, mystery novels, and the company of Rufus, her two year
@@ -228,14 +166,14 @@
             </section>
             <hr>
             <section id="employment">
-                <header> <span class="fa fa-lg fa-building"></span> 
+                <header> <span class="fa fa-building"></span> 
                      <h2>employment</h2>
 
                 </header>
                 <div>
                      <h3><em>Head Code Ninja</em>,
-              <a href="https://area52.io/does-not-exist">Area 52</a>
-              </h3>
+    <a href="https://area52.io/does-not-exist">Area 52</a>
+    </h3>
  <span class="tenure">2013-09 — Present</span>
 
                     <p>
@@ -246,12 +184,13 @@
                         <li>Managed a 5-person development team</li>
                         <li>Accomplishment 2</li>
                         <li>Etc.</li>
-                    </ul> <span class="keywords">Agile PM C C++ R OpenGL Boost MySQL PostgreSQL JIRA </span> 
+                    </ul> <span class="keywords">Agile PM C C++ R OpenGL Boost MySQL PostgreSQL JIRA </span>
+
                 </div>
                 <div>
                      <h3><em>Principal Developer</em>,
-              <a href="https://en.wikipedia.org/wiki/Better_Off_Ted#Plot">Veridian Dynamics</a>
-              </h3>
+    <a href="https://en.wikipedia.org/wiki/Better_Off_Ted#Plot">Veridian Dynamics</a>
+    </h3>
  <span class="tenure">2011-07 — 2013-08</span>
 
                     <p>
@@ -263,12 +202,13 @@
                         <li>Managed a 5-person development team</li>
                         <li>Accomplishment 2</li>
                         <li>Etc.</li>
-                    </ul> <span class="keywords">C++ C Linux R Clojure </span> 
+                    </ul> <span class="keywords">C++ C Linux R Clojure </span>
+
                 </div>
                 <div>
                      <h3><em>IT Administrator</em>,
-              Stark Industries
-              </h3>
+    Stark Industries
+    </h3>
  <span class="tenure">2008-10 — 2011-06</span>
 
                     <p>
@@ -279,12 +219,13 @@
                         <li>Promoted to intermediate developer after 6 months</li>
                         <li>Accomplishment 2</li>
                         <li>Etc.</li>
-                    </ul> <span class="keywords">Novell Active Directory Linux Windows </span> 
+                    </ul> <span class="keywords">Novell Active Directory Linux Windows </span>
+
                 </div>
                 <div>
                      <h3><em>Intern</em>,
-              Dunder Mifflin
-              </h3>
+    Dunder Mifflin
+    </h3>
  <span class="tenure">2008-06 — 2008-09</span>
 
                     <p>
@@ -294,44 +235,82 @@
                         <li>Supervised roll-out of Dunder Mifflin Infinity website.</li>
                         <li>Performed mission-critical system backups and</li>
                         <li>Etc.</li>
-                    </ul> <span class="keywords">Novell Active Directory Linux Windows </span> 
+                    </ul> <span class="keywords">Novell Active Directory Linux Windows </span>
+
                 </div>
             </section>
             <hr>
             <section id="projects">
-                <header> <span class="fa fa-lg fa-star"></span> 
+                <header> <span class="fa fa-star"></span> 
                      <h2>projects</h2>
 
                 </header>
                 <div>
-                     <h3><em>Contributor</em>,
-          <a href="http://please.hackmyresume.com">HackMyResume</a>
-          </h3>
+                     <h3><em>contributor</em>,
+    <a href="http://please.hackmyresume.com">HackMyResume</a>
+    </h3>
  <span class="tenure">2015-09 — Present</span>
 
-                    <p>Exemplar user for HackMyResume and FluentCV!</p> <span class="keywords">JavaScript Node.js cross-platform JSON </span> 
+                    <p>
+                        <p>Exemplar user for HackMyResume and FluentCV!</p>
+                    </p> <span class="keywords">JavaScript Node.js cross-platform JSON </span>
+
                 </div>
                 <div>
-                     <h3><em>Co-creator</em>,
-          <a href="http://project.website.com">Augmented Android</a>
-          </h3>
+                     <h3><em>co-creator</em>,
+    <a href="http://project.website.com">Augmented Android</a>
+    </h3>
  <span class="tenure">2012-02 — 2014-01</span>
 
-                    <p>Performed flagship product conceptualization and development.</p>
-                    <span
-                    class="keywords">Android Java Xamarin</span>
+                    <p>
+                        <p>Performed flagship product conceptualization and development.</p>
+                    </p> <span class="keywords">Android Java Xamarin </span>
+
                 </div>
                 <div>
-                     <h3><em>Creator</em>,
-          <a href="http://myblog.jane.com/blog">Blog</a>
-          </h3>
+                     <h3><em>creator</em>,
+    <a href="http://myblog.jane.com/blog">Blog</a>
+    </h3>
+ <span class="tenure">??? — Present</span>
 
-                    <p>Conceptualization, design, development, and deployment.</p> <span class="keywords">Jekyll Ruby HTML 5 JavaScript HTTP LAMP </span> 
+                    <p>
+                        <p>Conceptualization, design, development, and deployment.</p>
+                    </p> <span class="keywords">Jekyll Ruby HTML 5 JavaScript HTTP LAMP </span>
+
+                </div>
+            </section>
+            <hr>
+            <section id="governance">
+                <header> <span class="fa fa-balance-scale"></span> 
+                     <h2>governance</h2>
+
+                </header>
+                <div>
+                     <h3>
+        <a href="http://themommiesnetwork.org">The Mommies Network</a>
+        </h3>
+ <span class="tenure">2008-02 — 2010-01</span>
+
+                    <p>
+                        <p>Since 2008 I&#39;ve been a full-time member of the board of directors
+                            for TMN.</p>
+                    </p>
+                </div>
+                <div>
+                     <h3>
+        <a href="https://www.khronos.org">Khronos Group</a>
+        </h3>
+ <span class="tenure">2015-01 — Present</span>
+
+                    <p></p>
+                    <ul>
+                        <li>Participated in GORFF standardization process (Draft 2).</li>
+                    </ul>
                 </div>
             </section>
             <hr>
             <section id="education">
-                <header> <span class="fa fa-lg fa-mortar-board"></span> 
+                <header> <span class="fa fa-mortar-board"></span> 
                      <h2>education</h2>
 
                 </header>
@@ -351,57 +330,15 @@
                 </div>
             </section>
             <hr>
-            <section id="affiliation">
-                <header> <span class="fa fa-lg fa-share-alt"></span> 
-                     <h2>affiliation</h2>
-
-                </header>
-                <div>
-                     <h3><em>Member</em>,
-              <a href="https://www.ieee.org/index.html">IEEE</a>
-              </h3>
- <span class="tenure">2013-06 — Present</span>
-
-                    <p>Member in good standing since 2013-06.</p>
-                </div>
-                <div>
-                     <h3><em>Member</em>,
-              <a href="https://developer.apple.com/">Apple Developer Network</a>
-              </h3>
- <span class="tenure">??? — Present</span>
-
-                    <p>Member of the <a href="https://developer.apple.com/">Apple Developer program</a> since
-                        2008.</p>
-                </div>
-                <div>
-                     <h3><em>Subscriber</em>,
-              <a href="https://msdn.microsoft.com">MSDN</a>
-              </h3>
- <span class="tenure">2010-01 — Present</span>
-
-                    <p>Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription
-                        toaster and XBox ping pong racket.</p>
-                </div>
-                <div>
-                     <h3><em>Coordinator</em>,
-              Campus Coder&#39;s Meetup
-              </h3>
- <span class="tenure">2003-02 — 2004-04</span>
-
-                    <p>Host of a monthly <strong>campus-wide meetup for CS students</strong>.
-                        Code, coffee, and crullers!</p>
-                </div>
-            </section>
-            <hr>
             <section id="service">
-                <header> <span class="fa fa-lg fa-child"></span> 
+                <header> <span class="fa fa-child"></span> 
                      <h2>service</h2>
 
                 </header>
                 <div>
                      <h3><em>Technical Consultant</em>,
-            <a href="http://technology-for-tots.org">Technology for Tots</a>
-          </h3>
+      <a href="http://technology-for-tots.org">Technology for Tots</a>
+    </h3>
  <span class="tenure">2003-11 — 2005-06</span>
 
                     <p>
@@ -415,8 +352,8 @@
                 </div>
                 <div>
                      <h3><em>NCO</em>,
-            <a href="http://www.usar.army.mil/">US Army Reserves</a>
-          </h3>
+      <a href="http://www.usar.army.mil/">US Army Reserves</a>
+    </h3>
  <span class="tenure">1999-11 — 2003-06</span>
 
                     <p>
@@ -430,23 +367,65 @@
                 </div>
             </section>
             <hr>
+            <section id="affiliation">
+                <header> <span class="fa fa-share-alt"></span> 
+                     <h2>affiliation</h2>
+
+                </header>
+                <div>
+                     <h3><em>Member</em>,
+        <a href="https://www.ieee.org/index.html">IEEE</a>
+        </h3>
+ <span class="tenure">2013-06 — Present</span>
+
+                    <p>Member in good standing since 2013-06.</p>
+                </div>
+                <div>
+                     <h3><em>Member</em>,
+        <a href="https://developer.apple.com/">Apple Developer Network</a>
+        </h3>
+ <span class="tenure">??? — Present</span>
+
+                    <p>Member of the <a href="https://developer.apple.com/">Apple Developer program</a> since
+                        2008.</p>
+                </div>
+                <div>
+                     <h3><em>Subscriber</em>,
+        <a href="https://msdn.microsoft.com">MSDN</a>
+        </h3>
+ <span class="tenure">2010-01 — Present</span>
+
+                    <p>Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription
+                        toaster and XBox ping pong racket.</p>
+                </div>
+                <div>
+                     <h3><em>Coordinator</em>,
+        Campus Coder&#39;s Meetup
+        </h3>
+ <span class="tenure">2003-02 — 2004-04</span>
+
+                    <p>Host of a monthly <strong>campus-wide meetup for CS students</strong>.
+                        Code, coffee, and crullers!</p>
+                </div>
+            </section>
+            <hr>
             <section id="samples">
-                <header> <span class="fa fa-lg fa-share"></span> 
+                <header> <span class="fa fa-share"></span> 
                      <h2>samples</h2>
 
                 </header>
                 <div>
                      <h3>
-          <a href="http://janef.me/asteroids">Asteroids</a>
-          </h3>
+    <a href="http://janef.me/asteroids">Asteroids</a>
+    </h3>
  <span class="tenure">2014-09</span>
 
                     <p>A browser-based space shooter built on Three.js.</p>
                 </div>
                 <div>
                      <h3>
-          <a href="https://rememberpedia.com">Rememberpedia</a>
-          </h3>
+    <a href="https://rememberpedia.com">Rememberpedia</a>
+    </h3>
  <span class="tenure">2015-07</span>
 
                     <p>A website to help you remember things.</p>
@@ -454,25 +433,25 @@
             </section>
             <hr>
             <section id="writing">
-                <header> <span class="fa fa-lg fa-pencil"></span> 
+                <header> <span class="fa fa-pencil"></span> 
                      <h2>writing</h2>
 
                 </header>
                 <div>
                      <h3><em><a href="http://codeproject.com/build-ui-electron-atom.aspx">Building User Interfaces with Electron and Atom</a></em>,
-            Code Project</h3>
+      Code Project</h3>
  <span class="tenure">2011</span>
 
                 </div>
                 <div>
                      <h3><em><a href="http://janef.me">Jane Fullstacker&#39;s Blog</a></em>,
-            self</h3>
+      self</h3>
  <span class="tenure">2011</span>
 
                 </div>
                 <div>
                      <h3><em><a href="http://url.to.publication.com/blah">Teach Yourself GORFF in 21 Days</a></em>,
-            Amazon</h3>
+      Amazon</h3>
  <span class="tenure">2008</span>
 
                     <p>A primer on the programming language of GORFF, whose for loops are coterminous
@@ -481,7 +460,7 @@
             </section>
             <hr>
             <section id="reading">
-                <header> <span class="fa fa-lg fa-book"></span> 
+                <header> <span class="fa fa-book"></span> 
                      <h2>reading</h2>
 
                 </header>
@@ -512,7 +491,7 @@
             </section>
             <hr>
             <section id="recognition">
-                <header> <span class="fa fa-lg fa-trophy"></span> 
+                <header> <span class="fa fa-trophy"></span> 
                      <h2>recognition</h2>
 
                 </header>
@@ -529,7 +508,7 @@
             </section>
             <hr>
             <section id="speaking">
-                <header> <span class="fa fa-lg fa-users"></span> 
+                <header> <span class="fa fa-users"></span> 
                      <h2>speaking</h2>
 
                 </header>
@@ -544,7 +523,7 @@
             </section>
             <hr>
             <section id="testimonials">
-                <header> <span class="fa fa-lg fa-quote-left"></span> 
+                <header> <span class="fa fa-quote-right"></span> 
                      <h2>testimonials</h2>
 
                 </header>
@@ -568,12 +547,38 @@
             </section>
             <hr>
             <section id="references">
-                <header> <span class="fa fa-lg fa-thumbs-o-up"></span> 
+                <header> <span class="fa fa-thumbs-o-up"></span> 
                      <h2>references</h2>
 
                 </header>
                 <div>
                      <h3><em>John Davidson</em></h3>
+
+                </div>
+            </section>
+            <hr>
+            <section id="interests">
+                <header> <span class="fa fa-bicycle"></span> 
+                     <h2>interests</h2>
+
+                </header>
+                <div>
+                     <h3><em>reading</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>Jane is a fan of mystery novels and courtroom dramas including Agatha
+                        Christie and John Grisham.</p>
+                </div>
+                <div>
+                     <h3><em>hiking</em></h3>
+ <span class="tenure">Current</span>
+
+                    <p>Jane enjoys hiking, light mountain climbing, and has four summits under
+                        her belt!</p>
+                </div>
+                <div>
+                     <h3><em>yoga</em></h3>
+ <span class="tenure">Current</span>
 
                 </div>
             </section>

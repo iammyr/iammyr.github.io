@@ -13,6 +13,7 @@ You can find my repositories at {% include icon-github.html username="iammyr" %}
 
 Have also a look at [my resume](https://iammyr.github.com/cv/resume.html).
 
-Please send me signed and encrypted emails at 0xiammyr at protonmail dot com
+Please send me signed and encrypted emails with empty subject at 0xiammyr at protonmail dot com
+
 OpenPGP = 527A 33BF 03E6 5FB0 4116  5853 6B19 CB36 9C51 6199
 

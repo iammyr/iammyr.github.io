@@ -8,7 +8,9 @@ permalink: /about/
 
 We are in this world to improve it for everyone's enjoyment. Security knowledge is the most powerful tool one could use to protect common citizens rather than harming them.
  
-You can find my repositories at {% include icon-github.html username="iammyr" %}
+My repositories: {% include icon-github.html username="iammyr" %}.
+My [https://iammyr.github.io/cv/resume.html | resume].
+
 
 Please send me signed and encrypted e-mails with empty subject at 0xiammyr at protonmail dot com
 

@@ -1,8 +1,9 @@
 <header class="site-header">
-
+ <div class="container">
+	 <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+ </div>
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">

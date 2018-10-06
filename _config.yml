@@ -9,7 +9,7 @@
 title: öryggi kappi
 email: 0xiammyr at protonmail dot com
 description: > # this means to ignore newlines until "baseurl:"
-  Bits and pieces I come across while going through my (mainly security-related) projects.
+  Security Bits.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iammyr.github.io" # the base hostname & protocol for your site
 twitter_username: iammyr

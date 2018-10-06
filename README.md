@@ -1,6 +1,8 @@
 # iammyr.github.io
 
-Custom version of the [hacker theme](https://github.com/pages-themes/hacker/).
+Personal website.
+
+The theme in use is a custom version (modified by myself) of the [hacker theme](https://github.com/pages-themes/hacker/).
 
 ### Previewing the theme locally
 

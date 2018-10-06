@@ -16,6 +16,6 @@ print_hi('Robot')
 #=> prints 'Hi, Robot' to STDOUT.
 {% endhighlight %}
 
-Check out the [sample resume][sample-resume] that I've just set up.
+Check out the [resume][resume] that I've just set up.
 
-[sample-resume]: https://iammyr.github.io/cv/resume.html
+[resume]: https://iammyr.github.io/cv/resume.html

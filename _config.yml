@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: A Paw on Security
+title: öryggi kappi
 email: 0xiammyr at protonmail dot com
 description: > # this means to ignore newlines until "baseurl:"
   Bits and pieces I come across while going through my (mainly security-related) projects.

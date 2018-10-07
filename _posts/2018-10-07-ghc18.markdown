@@ -7,7 +7,20 @@ author: iammyr
 tags: conference, career growth
 ---
 
-I found a bit of lack of info around the Grace Hopper Celebration conference so I’d like to clarify a few points, now that i’ve been there.
+I found a bit of lack of information around the Grace Hopper Celebration conference so I’d like to clarify a few points, now that i’ve been there.
+
+**TL;DR**: 
+
+Topics covered: 
+- career advices, 
+- entrepreneurship advices, 
+- broad variety of technical topics,
+- social activism topics (around economical inequalities and minorities).
+
+What's in it for you:
+- contacts to collaborate, mentor or be mentored 
+- very useful career advices
+- technical skills through workshop or ideas and talks. However whether this applies to you or not, depends on many factors, since - given the breadth of audience background and topics - the level of the workshops is usually entry-level, while there can be talks on advanced topics and advanced research results.
 
 <a name="toc"></a>
 # Table of Contents
@@ -21,9 +34,7 @@ I found a bit of lack of info around the Grace Hopper Celebration conference so 
 
 # Topics Covered <a name="topics"></a>
 
-## TL;DR: career advices, entrepreneurship, broad variety of technical topics.
-
-there are different types of sessions:
+There are different types of sessions:
 
 1. the technical track with mixed subjects and 20mins long talks.
 2. poster
@@ -37,9 +48,6 @@ there are different types of sessions:
 [Top](#toc)
 
 # What is the main gain from attending <a name="gain"></a>
-
-## TL;DR contacts to collaborate, mentor or be mentored + very useful career advices (+ technical skills* *through workshop or ideas through talks, this is in parenthesis cause it depends from many factors* *whether it does or not apply to you)
-
 
 1. network of contacts (you get to meet a lot of women sharing similar interests as yourself, which is not something that happens easily within the tech sector; who are willing to mentor you or to collaborate on projects)
 2. career-tips (there’s extremely useful career tips everywhere, which would apply to both men and women)

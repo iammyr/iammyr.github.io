@@ -1,0 +1,186 @@
+---
+layout: post
+title:  "Grace Hopper Celebration 2018"
+date:   2018-10-07 13:18:34 +0100
+categories: career
+---
+
+I found a bit of lack of info around the Grace Hopper Celebration conference so I’d like to clarify a few points, now that i’ve been there.
+
+# Topics Covered
+
+## TL;DR: career advices, entrepreneurship, broad variety of technical topics.
+
+there are different types of sessions:
+
+1. the technical track with mixed subjects and 20mins long talks.
+2. poster
+3.  panel (guests interviewed by a host and then answering all Q&A from the audience)
+4. non-technical talk (mainly around career tips)
+5. workshops (also technical and non-technical (exercises around career tips and inter-relationships tips)
+6. mentoring circle (tables chaired by people who are at a more advanced stage of their career and offer to mentor/talk to the attendees for some time)
+7. recruiting booths (there is a huge room flooded with companies’ booths and - mainly new graduate - who queue to file in their CV, get swag and interviews on the spot or booked for later on)
+8. keynotes (inspiring because of powerful sociological messages or because of innovative ideas showcased or on career tips)
+
+
+# What is the main gain from attending
+
+## TL;DR contacts to collaborate, mentor or be mentored + very useful career advices (+ technical skills* *through workshop or ideas through talks, this is in parenthesis cause it depends from many factors* *whether it does or not apply to you)
+
+
+1. network of contacts (you get to meet a lot of women sharing similar interests as yourself, which is not something that happens easily within the tech sector; who are willing to mentor you or to collaborate on projects)
+2. career-tips (there’s extremely useful career tips everywhere, which would apply to both men and women)
+3. technical-wise you may or may not find talks that interest you, because of the broadness of the topics accepted. also because of the broadness of the audience, in order to involve as many people as possible, the tech workshops tend to be for beginners
+
+# Recap from the "Become a better Negotiator" session
+
+1. Stategise
+Identify your currency (create multiple currencies). A currency is the thing you can do and its value, i.e., what you can ask back for it.
+Plan: imagine all the possible counter-arguments you may receive from the other person, the bottom terms you'll be willing to accept, which conditions the other person might agree with.
+
+2. Set the climate
+Be in control.
+Drive the discussion, with questions to gather information.
+
+3. Obtain information
+"Negotiation is an information gathering process" (Chris Voss)
+
+Ask whatm how, why, TEDS (tell, explain, describe, share) -type of questions, e.g.,: tell me about...; share with me about.... Do not stop at the first answer you'll receive: drill down instead. Ask broad open questions. Example: What are your concerns; How did you determine your budget; How long has this been an issue; What makes this issue a priority for you; What would b helpful for you; What role do you see me playing in those priorities. etc.
+
+Goal: understand the other person's priorities in order to select what best to offer (the best currency to use) in order to increase chances of receiving back.
+
+
+4. State positions
+Do not reveal your own plans, e.g., a deadline, your own terms, your walk-away position
+Offer low when buying. 
+Offer high when selling.
+But in general, be flexible.
+Draw attention to your own concessions.
+
+5. Bargain
+Make concessions conditional. Example: what if I... then would you...; Suppose we... then could you...; If I were to... then would you...
+
+6. Agree
+
+In general, remember that a negotiation can always be re-opened.
+Do leverage your Power: TIPS (Time, Information, Personal, Social).
+
+
+# Recap from the "Become a Person of Influence" session
+
+## Why to Influence
+
+Technical work is Team Work.
+With Influencing skills, a technical woman can 
+1. become more efficient, 
+2. get the job done, 
+3. establish her reputation
+
+Our behavior teaches people how to treat us.
+
+## What is a Person of Influence
+
+*Influencer=* Make large impact by:
+- Lead
+- Inspire
+- Motivate
+- Engage
+in ordere to do better than you can do alone.
+
+Common characteristics of persons of influence: powerful stand, empathy, technical knowledge, emotional control (calmness).
+
+## How to become a Person of Influence: 6 sources of Influence
+
+6. Positional Influence
+(title, role, etc.)
+Work on your 30-seconds commercial in which you introduce:
+- name
+- job title
+- I'm responsible for...
+- Come directly to me when you need...
+
+This specific source of influence is at the 6th position because your own Influence has little to do with your position in the hierarchy.
+
+5. Expertise Influence
+This source of influence is at the 5th position because "it's not what or who you know, but who knows what you know".
+Plan initiatives that advertise your own expertise within the limits of what you feel comfortable doing.
+
+In order to make your expertise visible:
+- Work Less
+- Work Hard on the *Right* projects
+and refrain from doing _Office Housework_ like minorities tend to do.
+If you want to volunteer, *volunteer for High Profile, Career-Making assignments*.
+
+- *A*mplify the
+- *A*ctions that
+- *A*lign with your
+- *A*spirations
+
+4. Resources Influence
+Negotiate the resources that you need to perform well.
+How to build this:
+- negotiation techniques
+- learn to lead without authority
+- suggest projects as a chance of growth for others
+- understand how finances and team budget work
+- be a mentor/sponsor/talent scout (regardless of your position in the hierarchy)
+
+3. Informational Influence
+Keep yourself up-to-date with the latest news around 
+- your own organisation
+- your own industry
+- your own profession
+
+2. Direct Influence
+Be firm, fair and professional.
+Be direct and concise when delivering tough news but do that only when needed. Example: if a child is crossing the street in front of a car, you do not start lecturing about the dangers of crossing the streets, but rather you run after the child to prevent an accident. This means being, firm, concise, fair and professional to deliver tough news but only when needed.
+
+1. Relationship Influence
+This comes naturally, by building a network of relationships that are:
+- authentic
+- strategic (aligned with your goals)
+- supportive
+- collaborators
+- acting as a hub of information.
+
+Get the right people in the boat with you.
+Engage the entire human fabric.
+
+(from a different session)
+Be yourself. Authenticity is what helps you build relationships.
+Get over the fear of reaching out: "hello fear, thank you for being here. You are the indication that I'm doing the right thing".
+
+(from a session on The Power of Introverts)
+Networking is not superficial (like many introverts often believe). It is about building others up and building yourself up.
+
+
+# Recap on the "Building Your Own Brand" session
+
+Your brand is what people say about you when you're not there.
+
+- Write internal posts, present yourself, to get momentum. 
+- Tell others what to say about you: people are often lazy and more than willing to simply repeat what they heard from you.
+- Get quick feedback from managers and peers, to make sure people know what is your goal cause then they'll be willing to help you.
+- Read the room. Know your surroundings. Acquire partners rather than people to lead, because only then, they will be on your side.
+- Ask people what others say about you.
+
+First they ignore you, then they laugh at you, then they get mad at you and then they join you.
+
+Be humble (cause everyone is equal) but in a confident (i.e., with no fear) way.
+Your projects are important.
+Do not let unconscious bias hold you back or define you. Put yourself out there, take opportunities. It's gonna be uncomfortable but it will get you there.
+
+When people do not realise that they did something that is impacting you negatively, let them know, because they may not have realised it.
+
+# Recap on the "Being an Architect" session
+
+- Make lateral movements cause that gives you more versatility and makes you stand out, especially while the world is moving so fast.
+- Good leaders encourage others' evolution
+- Ask yourself: who is part of your fight club? Push out and pull in people, as you move
+- Don't be afraid of doing something big but neither of doing something small
+- We can get better only by helping someone else, regardless of where you are in your career path.
+- Some fights are not worth fighting
+- Your resume doesn't have to be perfect
+- Be gentle with each other; lift each other up.
+
+

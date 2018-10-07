@@ -3,11 +3,23 @@ layout: post
 title:  "Grace Hopper Celebration 2018"
 date:   2018-10-07 13:18:34 +0100
 categories: career
+author: iammyr
+tags: conference, career growth
 ---
 
 I found a bit of lack of info around the Grace Hopper Celebration conference so I’d like to clarify a few points, now that i’ve been there.
 
-# Topics Covered
+<a name="toc"></a>
+# Table of Contents
+1. [Topics Covered](#topics)
+2. [What is the main gain from attending](#gain)
+3. [Notes from How to become a better Negotiator](#negotiate)
+4. [Notes from How to become a person of Influence](#influence)
+5. [Notes from How to build your personal Brand](#brand)
+6. [Notes from being an Architect](#architect)
+
+
+# Topics Covered <a name="topics"></a>
 
 ## TL;DR: career advices, entrepreneurship, broad variety of technical topics.
 
@@ -22,8 +34,9 @@ there are different types of sessions:
 7. recruiting booths (there is a huge room flooded with companies’ booths and - mainly new graduate - who queue to file in their CV, get swag and interviews on the spot or booked for later on)
 8. keynotes (inspiring because of powerful sociological messages or because of innovative ideas showcased or on career tips)
 
+[Top](#toc)
 
-# What is the main gain from attending
+# What is the main gain from attending <a name="gain"></a>
 
 ## TL;DR contacts to collaborate, mentor or be mentored + very useful career advices (+ technical skills* *through workshop or ideas through talks, this is in parenthesis cause it depends from many factors* *whether it does or not apply to you)
 
@@ -32,17 +45,19 @@ there are different types of sessions:
 2. career-tips (there’s extremely useful career tips everywhere, which would apply to both men and women)
 3. technical-wise you may or may not find talks that interest you, because of the broadness of the topics accepted. also because of the broadness of the audience, in order to involve as many people as possible, the tech workshops tend to be for beginners
 
-# Recap from the "Become a better Negotiator" session
+[Top](#toc)
 
-1. Stategise
+# Personal notes from the "Six Steps to Successful Negotiations" workshop by J. Stewart, C. Valdezco <a name="negotiate"></a>
+
+### (1) Stategise
 Identify your currency (create multiple currencies). A currency is the thing you can do and its value, i.e., what you can ask back for it.
 Plan: imagine all the possible counter-arguments you may receive from the other person, the bottom terms you'll be willing to accept, which conditions the other person might agree with.
 
-2. Set the climate
+### (2) Set the climate
 Be in control.
 Drive the discussion, with questions to gather information.
 
-3. Obtain information
+### (3) Obtain information
 "Negotiation is an information gathering process" (Chris Voss)
 
 Ask whatm how, why, TEDS (tell, explain, describe, share) -type of questions, e.g.,: tell me about...; share with me about.... Do not stop at the first answer you'll receive: drill down instead. Ask broad open questions. Example: What are your concerns; How did you determine your budget; How long has this been an issue; What makes this issue a priority for you; What would b helpful for you; What role do you see me playing in those priorities. etc.
@@ -50,23 +65,24 @@ Ask whatm how, why, TEDS (tell, explain, describe, share) -type of questions, e.
 Goal: understand the other person's priorities in order to select what best to offer (the best currency to use) in order to increase chances of receiving back.
 
 
-4. State positions
+### (4) State positions
 Do not reveal your own plans, e.g., a deadline, your own terms, your walk-away position
 Offer low when buying. 
 Offer high when selling.
 But in general, be flexible.
 Draw attention to your own concessions.
 
-5. Bargain
+### (5) Bargain
 Make concessions conditional. Example: what if I... then would you...; Suppose we... then could you...; If I were to... then would you...
 
-6. Agree
+### (6) Agree
 
 In general, remember that a negotiation can always be re-opened.
 Do leverage your Power: TIPS (Time, Information, Personal, Social).
 
+[Top](#toc)
 
-# Recap from the "Become a Person of Influence" session
+# Personal notes from the "Become a Person of Influence" workshop by J. Miller<a name="influence"></a>
 
 ## Why to Influence
 
@@ -80,7 +96,7 @@ Our behavior teaches people how to treat us.
 
 ## What is a Person of Influence
 
-*Influencer=* Make large impact by:
+**Influencer=** Make large impact by:
 - Lead
 - Inspire
 - Motivate
@@ -91,7 +107,7 @@ Common characteristics of persons of influence: powerful stand, empathy, technic
 
 ## How to become a Person of Influence: 6 sources of Influence
 
-6. Positional Influence
+### (6) Positional Influence
 (title, role, etc.)
 Work on your 30-seconds commercial in which you introduce:
 - name
@@ -101,22 +117,22 @@ Work on your 30-seconds commercial in which you introduce:
 
 This specific source of influence is at the 6th position because your own Influence has little to do with your position in the hierarchy.
 
-5. Expertise Influence
+### (5) Expertise Influence
 This source of influence is at the 5th position because "it's not what or who you know, but who knows what you know".
 Plan initiatives that advertise your own expertise within the limits of what you feel comfortable doing.
 
 In order to make your expertise visible:
 - Work Less
-- Work Hard on the *Right* projects
+- Work Hard on the **Right** projects
 and refrain from doing _Office Housework_ like minorities tend to do.
-If you want to volunteer, *volunteer for High Profile, Career-Making assignments*.
+If you want to volunteer, **volunteer for High Profile, Career-Making assignments**.
 
-- *A*mplify the
-- *A*ctions that
-- *A*lign with your
-- *A*spirations
+- **A**mplify the
+- **A**ctions that
+- **A**lign with your
+- **A**spirations
 
-4. Resources Influence
+### (4) Resources Influence
 Negotiate the resources that you need to perform well.
 How to build this:
 - negotiation techniques
@@ -125,17 +141,17 @@ How to build this:
 - understand how finances and team budget work
 - be a mentor/sponsor/talent scout (regardless of your position in the hierarchy)
 
-3. Informational Influence
+### (3) Informational Influence
 Keep yourself up-to-date with the latest news around 
 - your own organisation
 - your own industry
 - your own profession
 
-2. Direct Influence
+### (2) Direct Influence
 Be firm, fair and professional.
 Be direct and concise when delivering tough news but do that only when needed. Example: if a child is crossing the street in front of a car, you do not start lecturing about the dangers of crossing the streets, but rather you run after the child to prevent an accident. This means being, firm, concise, fair and professional to deliver tough news but only when needed.
 
-1. Relationship Influence
+### (1) Relationship Influence
 This comes naturally, by building a network of relationships that are:
 - authentic
 - strategic (aligned with your goals)
@@ -146,15 +162,16 @@ This comes naturally, by building a network of relationships that are:
 Get the right people in the boat with you.
 Engage the entire human fabric.
 
-(from a different session)
+*(from a different session)*
 Be yourself. Authenticity is what helps you build relationships.
 Get over the fear of reaching out: "hello fear, thank you for being here. You are the indication that I'm doing the right thing".
 
-(from a session on The Power of Introverts)
+*(from the "An Introvert's Guide to Networking" talk by J. Shea)*
 Networking is not superficial (like many introverts often believe). It is about building others up and building yourself up.
 
+[Top](#toc)
 
-# Recap on the "Building Your Own Brand" session
+# Personal Notes from "How to Foster an Authentic and Consistent Personal Brand" panel by M. Kopczynski, E. Summers, L. Abaibourva, I. Ryabaya, C. Alvarez <a name="brand"></a>
 
 Your brand is what people say about you when you're not there.
 
@@ -172,7 +189,9 @@ Do not let unconscious bias hold you back or define you. Put yourself out there,
 
 When people do not realise that they did something that is impacting you negatively, let them know, because they may not have realised it.
 
-# Recap on the "Being an Architect" session
+[Top](#toc)
+
+# Personal Notes from the "Architect: A great Career or the Greatest Career?" panel by J. Plummer, S. Ransom, J. Prusakova, S. Mukhtar <a name="architect"></a>
 
 - Make lateral movements cause that gives you more versatility and makes you stand out, especially while the world is moving so fast.
 - Good leaders encourage others' evolution
@@ -183,4 +202,5 @@ When people do not realise that they did something that is impacting you negativ
 - Your resume doesn't have to be perfect
 - Be gentle with each other; lift each other up.
 
+[Top](#toc)
 

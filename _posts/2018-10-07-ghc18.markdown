@@ -20,7 +20,9 @@ Topics covered:
 What's in it for you:
 - contacts to collaborate, mentor or be mentored 
 - very useful career advices
-- technical skills through workshop or ideas and talks. However whether this applies to you or not, depends on many factors, since - given the breadth of audience background and topics - the level of the workshops is usually entry-level, while there can be talks on advanced topics and advanced research results.
+- technical skills through workshop or ideas and talks. However whether this applies to you or not, depends on many factors, since - given the breadth of audience background and topics - the level of the workshops is usually entry-level. There can be talks on advanced topics and advanced research results indeed, but the research area may or may not interest you.
+
+Finally, I'm publishing here my own personal notes from the best sessions I attended. This is to benefit those who could not attend them.
 
 <a name="toc"></a>
 # Table of Contents

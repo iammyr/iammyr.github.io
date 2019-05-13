@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-`"Thinking is difficult, that's why most people judge." (C.G. Jung)`
+`'Me' is only a concept, a thought. Not knowing who you are is emptying your life of  meaning to fill it with a new one.`
+
 
 We are in this world to improve it for everyone's enjoyment. Security knowledge is the most powerful tool one could use to protect common citizens rather than harming them.
  
